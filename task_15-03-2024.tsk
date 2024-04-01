@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Task Planner">
+  <rte>
+    <date>15-03-2024</date>
+    <type>race</type>
+    <num>1</num>
+    <ngates>1</ngates>
+    <gateint>15</gateint>
+    <info></info>
+    
+      <rtept lon="13.1756" lat="46.273833333333336">
+        <close>19:00</close>
+        <!-- <filename>task_15-03-2024.tsk</filename> -->
+        <fileOrigin>PWC-Gemona.wpt</fileOrigin>
+        <goalType>cylinder</goalType>
+        <id>D01115</id>
+        <index>0</index>
+        <mode>entry</mode>
+        <name>CUARNAN T OFF</name>
+        <open>12:30</open>
+        <radius>400</radius>
+        <type>takeoff</type>
+        <z>1149</z>
+      </rtept>
+    
+      <rtept lon="13.081380555555555" lat="46.25986388888889">
+        <close>19:00</close>
+        <!-- <filename>task_15-03-2024.tsk</filename> -->
+        <fileOrigin>PWC-Gemona.wpt</fileOrigin>
+        <goalType>cylinder</goalType>
+        <id>G15027</id>
+        <index>1</index>
+        <mode>exit</mode>
+        <name>OSOPPO BLOCKHOUSE</name>
+        <open>13:30</open>
+        <radius>5000</radius>
+        <type>start</type>
+        <z>275</z>
+      </rtept>
+    
+      <rtept lon="13.283397222222222" lat="46.28575">
+        <close>19:00</close>
+        <!-- <filename>task_15-03-2024.tsk</filename> -->
+        <fileOrigin>PWC-Gemona.wpt</fileOrigin>
+        <goalType>cylinder</goalType>
+        <id>G19086</id>
+        <index>2</index>
+        <mode>entry</mode>
+        <name>MICOTTIS CROSS</name>
+        <open>12:00</open>
+        <radius>3000</radius>
+        <type>turnpoint</type>
+        <z>860</z>
+      </rtept>
+    
+      <rtept lon="13.101416666666667" lat="46.33016666666667">
+        <close>19:00</close>
+        <!-- <filename>task_15-03-2024.tsk</filename> -->
+        <fileOrigin>PWC-Gemona.wpt</fileOrigin>
+        <goalType>cylinder</goalType>
+        <id>D02115</id>
+        <index>3</index>
+        <mode>entry</mode>
+        <name>S.SIMEONE T OFF</name>
+        <open>12:00</open>
+        <radius>4000</radius>
+        <type>turnpoint</type>
+        <z>1152</z>
+      </rtept>
+    
+      <rtept lon="13.193330555555557" lat="46.24391666666667">
+        <close>19:00</close>
+        <!-- <filename>task_15-03-2024.tsk</filename> -->
+        <fileOrigin>PWC-Gemona.wpt</fileOrigin>
+        <goalType>cylinder</goalType>
+        <id>G04067</id>
+        <index>4</index>
+        <mode>entry</mode>
+        <name>FAEIT STABLE</name>
+        <open>12:00</open>
+        <radius>1000</radius>
+        <type>turnpoint</type>
+        <z>670</z>
+      </rtept>
+    
+      <rtept lon="13.113030555555556" lat="46.30629722222222">
+        <close>19:00</close>
+        <!-- <filename>task_15-03-2024.tsk</filename> -->
+        <fileOrigin>PWC-Gemona.wpt</fileOrigin>
+        <goalType>cylinder</goalType>
+        <id>A04022</id>
+        <index>5</index>
+        <mode>entry</mode>
+        <name>BORDANO LANDING</name>
+        <open>12:00</open>
+        <radius>1000</radius>
+        <type>end-of-speed-section</type>
+        <z>225</z>
+      </rtept>
+    
+      <rtept lon="13.113030555555556" lat="46.30629722222222">
+        <close>19:00</close>
+        <!-- <filename>task_15-03-2024.tsk</filename> -->
+        <fileOrigin>PWC-Gemona.wpt</fileOrigin>
+        <goalType>cylinder</goalType>
+        <id>A04022</id>
+        <index>6</index>
+        <mode>entry</mode>
+        <name>BORDANO LANDING</name>
+        <open>12:00</open>
+        <radius>400</radius>
+        <type>goal</type>
+        <z>225</z>
+      </rtept>
+    
+  </rte>
+</gpx>
